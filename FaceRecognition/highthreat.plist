@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Images</key>
+	<array>
+		<string>highthreat1</string>
+		<string>highthreat2</string>
+		<string>highthreat3</string>
+		<string>highthreat4</string>
+		<string>highthreat5</string>
+	</array>
+</dict>
+</plist>
